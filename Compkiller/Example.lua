@@ -1,4 +1,4 @@
-local Compkiller = loadstring(game:HttpGet("https://raw.githubusercontent.com/slowsxit/MyLib/Compkiller/refs/heads/main/src/source.luau"))();
+local Compkiller = loadstring(game:HttpGet("https://raw.githubusercontent.com/slowsxit/MyLib/Compkiller/refs/heads/main/src/source.luau.txt"))();
 
 -- Create Notification --
 local Notifier = Compkiller.newNotify();
